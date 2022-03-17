@@ -1,0 +1,18 @@
+.alphabet {
+  color: darkgreen;
+  border: 2px solid black;
+}
+
+body {
+  background-color: yellow;
+  margin: 200px;
+}
+
+.dinoImg {
+  mix-blend-mode: multiply;
+  padding: 20px;
+}
+
+.showDinosaurs {
+  padding: 20px;
+}
